@@ -1,34 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Automobilismo",
-      "link": "https://www.fia.com/",
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Federation Internationale de l'Automobile",
-        "url": "https://www.youtube.com/user/FIAOfficialVideo"
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "INSIDE TRACKS: Ride Onboard For The Dramatic Finale | 2020 British Grand Prix",
-          "url": "https://www.youtube.com/watch?v=ym4wez5Vqe8"
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "Dix Mille Tours 2020 by Peter Auto: Saturday - Raw Sounds, Flames & Dangerous Oil Spill!",
-          "url": "https://www.youtube.com/watch?v=00CcIygRuwI"
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "2019 Toro Rosso STR14 in action: Race Start Test, Accelerations, Fly Bys & More!",
-          "url": "https://www.youtube.com/watch?v=5Cs3_cw_TUY"
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "EHSRC - 2020 Rally Costa Brava - Preview",
-          "url": "https://www.youtube.com/watch?v=BQVpP_N0Qls"
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
         }        
       ]
     },
     {
-      "titulo": "Lançamentos",
+      "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -58,7 +74,7 @@
       ]
     },
     {
-      "titulo": "Supercarros e Hipercarros",
+      "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -66,8 +82,8 @@
       },
       "videos": [
         {
-          "titulo": "Ford GT 2017 Accelerations, Revs & EcoBoost V6 Sound",
-          "url": "https://www.youtube.com/watch?v=I_JBdhVbGLY"
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
           "titulo": "O que é Data Science?",
@@ -84,45 +100,29 @@
       ]
     },
     {
-      "titulo": "Games e simuladores",
+      "titulo": "Filmes",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "[iRacing] FINAL - Copa AMK Turismo GT3 - Circuito de Road America",
-          "url": "https://www.youtube.com/watch?v=SN0MV3H-sh8"
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "PRIMEIRA VIAGEM COM CAMINHÃO - TRUCK&LOGISTIC SIMULATOR - EPISÓDIO 03",
-          "url": "https://www.youtube.com/watch?v=eIQPEbFg--E"
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
         },
         {
-          "titulo": "Brabham Royals SE Stage 1 Full",
-          "url": "https://www.youtube.com/watch?v=pOCvlgcJF9w"
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "iRacing Ferrari 488 GT3 Monza",
-          "url": "https://www.youtube.com/watch?v=BMgge8YMh5g"
-        },
-        {
-          "titulo": "rFactor 2 - Vale ou não vale a pena ? - Gameplay [Portugues PT-BR]",
-          "url": "https://www.youtube.com/watch?v=rnuCPj-xgKA"
-        },
-        {
-          "titulo": "rFactor 2 - Nordschleife - Ferrari 488 GTE - Race Lap",
-          "url": "https://www.youtube.com/watch?v=Cjw-0ylnIqU"
-        },
-        {
-          "titulo": "Porsche 718 Cayman GT4 Assetto Corsa Competizione SPA Race - Pure Sound",
-          "url": "https://www.youtube.com/watch?v=vDkuVKo9yc0"
-        },
-        {
-          "titulo": "F1 2020 - Autódromo José Carlos Pace - São Paulo (Brazilian Grand Prix) - Gameplay",
-          "url": "https://www.youtube.com/watch?v=E_gyh8zrQ8s"
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
         }
       ]
     },
     {
-      "titulo": "Pick-ups",
+      "titulo": "Games",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "titulo": "Restauração",
+      "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
